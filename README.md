@@ -1,2 +1,2 @@
-# Java-Application-P2P
-File sharing service 
+# Java-Application-Socket TCP
+File sharing service, 
