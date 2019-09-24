@@ -13,11 +13,11 @@ The TCP (Transmission Control Protocol) protocol establishes a point-to-point co
 
 There are two different parts Client - Server.
 
-SERVER: The server will manage the communication between the different clients.
+<strong>SERVER:</strong> The server will manage the communication between the different clients.
 When a client connects, it will transmit the information of its available files and the server will manage its availability.
 When a user makes a request /get <filename>, he will connect this user with the owner of the file. The server accepts requests from multiple users (BapsterServer Class) and manages them through threads (BapsterServerThread Class).
    
-USERS (CLIENTS): They will begin communication with the server, they will communicate to the server the files that it makes available to share.,  the / w command can be sent emails, for this task the JavaMail library was used.  You can also execute orders.
+<strong>USERS (CLIENTS):</strong> They will begin communication with the server, they will communicate to the server the files that it makes available to share.,  the / w command can be sent emails, for this task the JavaMail library was used.  You can also execute orders.
    
 
 ## Autor
