@@ -31,15 +31,16 @@ Grace Toa (App Developer)
 ## Link
 - JavaAplication: [Youtube]()
 
-<table border="3" bordercolor="black" align="center">
+<table border="3" bordercolor="black" align="center"width="9999">
     <tr>
-        <th colspan="3">Baster </th> 
+        <th> iPhone 8 12-2 </th> 
     </tr>
-    <tr>
-        <td><img src="https://user-images.githubusercontent.com/10947013/54477287-dc079980-4806-11e9-8a69-26dcc77d4327.png"             width="250" alt="login"></td>
-        <td><img src="https://user-images.githubusercontent.com/10947013/54477347-25f07f80-4807-11e9-9afb-d5939475d59a.png"             width="250" alt="register"></td>
-        <td><img src="https://user-images.githubusercontent.com/10947013/54477368-57694b00-4807-11e9-85f5-d7f1c98e8739.png"              width="250" alt="profile"></td>     
-    </tr>
- 
- 
+      
+<tr align="center">
+     <td ><img src="https://user-images.githubusercontent.com/10947013/65537143-f7b1d200-df04-11e9-8f39-431a63c35e7c.PNG"             width="450" alt="register"></td>          
+            </tr>
+     <tr  align="center">
+        <td><img src="https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png" 
+            width="990" alt="login"  </td>
+</tr>
 </table>
