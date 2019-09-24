@@ -9,15 +9,15 @@ File sharing service, and Chat
 
 Java Application where users can share their files with others and make requests at the same time, communication is done using the TCP protocol.
 
-"The TCP (Transmission Control Protocol) protocol establishes a point-to-point communication conduit between two computers, that is, when the transmission of a data stream between two computers is required, the TCP protocol establishes an exclusive conduit between those computers by the which data will be transmitted and this will last until the transmission is finished, thanks to this TCP guarantees that the data sent from one end of the connection reaches the other end and in the same order in which they were sent "[http://dsp.mx/blog/sistemas-de-informacion/49-sockets-tcp-udp]
+The TCP (Transmission Control Protocol) protocol establishes a point-to-point communication conduit between two computers, that is, when the transmission of a data stream between two computers is required, the TCP protocol establishes an exclusive conduit between those computers by the which data will be transmitted and this will last until the transmission is finished, thanks to this TCP guarantees that the data sent from one end of the connection reaches the other end and in the same order in which they were sent 
 
 
 There are two different parts Client - Server.
 
 ## Feature
 - Java
-- Sockets
 - JavaMail
+- Eclipse EE
 
 <table border="3" bordercolor="black" align="center">
     <tr>
