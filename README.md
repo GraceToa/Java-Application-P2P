@@ -19,12 +19,15 @@ USERS (CLIENTS): They will begin communication with the server, they will commun
    
 
 ## Autor
-Grace Toa
+Grace Toa (App Developer)
 
 ## Feature
 - Java
-- JavaMail Library
+- JavaMail Api [Documentation](https://javaee.github.io/javamail/docs/api/)
 - Eclipse EE
+
+## Link
+- JavaAplication: [Youtube]()
 
 <table border="3" bordercolor="black" align="center">
     <tr>
