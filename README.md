@@ -3,7 +3,7 @@
 
 # Java Application Socket TCP
 
-File sharing service, and Chat
+File sharing service, Chat
 </td></tr></table>
 
 
@@ -12,9 +12,11 @@ Java Application where users can share their files with others and make requests
 The TCP (Transmission Control Protocol) protocol establishes a point-to-point communication conduit between two computers, that is, when the transmission of a data stream between two computers is required, the TCP protocol establishes an exclusive conduit between those computers by the which data will be transmitted and this will last until the transmission is finished, thanks to this TCP guarantees that the data sent from one end of the connection reaches the other end and in the same order in which they were sent.
 
 There are two different parts Client - Server.
+
 SERVER: The server will manage the communication between the different clients.
 When a client connects, it will transmit the information of its available files and the server will manage its availability.
-When a user makes a request /get <filename>, he will connect this user with the owner of the file. The server accepts requests from multiple users (BapsterServer Class) and manages them through threads (BapsterServerThread Class)
+When a user makes a request /get <filename>, he will connect this user with the owner of the file. The server accepts requests from multiple users (BapsterServer Class) and manages them through threads (BapsterServerThread Class).
+   
 USERS (CLIENTS): They will begin communication with the server, they will communicate to the server the files that it makes available to share.,  the / w command can be sent emails, for this task the JavaMail library was used.  You can also execute orders.
    
 
@@ -22,7 +24,7 @@ USERS (CLIENTS): They will begin communication with the server, they will commun
 Grace Toa (App Developer)
 
 ## Feature
-- Java
+- Java [Documentation](https://docs.oracle.com/en/java/)
 - JavaMail Api [Documentation](https://javaee.github.io/javamail/docs/api/)
 - Eclipse EE
 
