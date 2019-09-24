@@ -26,14 +26,14 @@ Grace Toa (App Developer)
 ## Feature
 - Java [Documentation](https://docs.oracle.com/en/java/)
 - JavaMail Api [Documentation](https://javaee.github.io/javamail/docs/api/)
-- Eclipse EE
+- Eclipse EE IDE
 
 ## Link
 - JavaAplication: [Youtube]()
 
-<table border="3" bordercolor="black" align="center"width="9999">
+<table border="3" bordercolor="black" align="center" width="9999">
     <tr>
-        <th> iPhone 8 12-2 </th> 
+        <th> Eclipse IDE</th> 
     </tr>
       
 <tr align="center">
