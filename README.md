@@ -40,7 +40,7 @@ Grace Toa (App Developer)
      <td ><img src="https://user-images.githubusercontent.com/10947013/65537143-f7b1d200-df04-11e9-8f39-431a63c35e7c.PNG"             width="450" alt="register"></td>          
             </tr>
      <tr  align="center">
-        <td><img src="https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png" 
+        <td><img src="https://user-images.githubusercontent.com/10947013/65537220-2039cc00-df05-11e9-8bce-80e6eb0a1c0b.PNG" 
             width="990" alt="login"  </td>
 </tr>
 </table>
